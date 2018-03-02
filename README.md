@@ -1,5 +1,5 @@
 # Firebase-Train-Scheduler
-[Firebase database train schedulerI](https://green64.github.io/Firebase-Train-Scheduler/)
+[Firebase database train scheduler](https://green64.github.io/Firebase-Train-Scheduler/)
 
 **Object**
 

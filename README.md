@@ -8,7 +8,7 @@ The goal of this assignment is to:
 1. Create a front end in which user can enter data, which in turn populates train schedule
 1. Use Moment.js to create formulas for minutes til arrival, etc.
 
-Because this is backend, rather than client side, storage, the data will be there regardless of browser, platform, etc.
+Because this is backend, rather than client-side storage, the data will be there regardless of browser, platform, etc.
 
 ***Technology used***
 
